@@ -1,0 +1,18 @@
+{
+  "name": "experimental-warp-podlet-server-plugin",
+  "version": "0.0.1",
+  "description": "",
+  "main": "plugin.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@unocss/core": "^0.50.6",
+    "@warp-ds/uno": "^0.0.15",
+    "lightningcss": "^1.19.0"
+  }
+}
